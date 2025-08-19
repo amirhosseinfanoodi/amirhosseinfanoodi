@@ -3,13 +3,12 @@
 ## 👨‍💻 About Me
 I'm a **Frontend Developer** specializing in **React.js** and **Next.js**, with strong experience in building modern, scalable, and user-friendly web applications.  
 I also work with **Node.js, Express, and MongoDB** for backend development.  
-Currently, I'm expanding my knowledge in **DevOps** and **cloud technologies**.  
+Currently.
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Frontend:** React.js, Next.js, TypeScript, Redux, TailwindCSS  
-- **Backend:** Node.js, Express, REST APIs, GraphQL  
+- **Frontend:** React.js, Next.js, TypeScript, Redux, TailwindCSS    
 - **Databases:** MongoDB, PostgreSQL  
 - **Other Tools:** Git, Docker, Strapi, JWT Authentication  
 
