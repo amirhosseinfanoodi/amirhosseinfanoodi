@@ -19,19 +19,14 @@ Currently, I'm expanding my knowledge in **DevOps** and **cloud technologies**.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide_border=true)
 
----
-
-## 🚀 Featured Projects
-- [🛒 E-commerce Store (Next.js + Strapi)](https://github.com/USERNAME/nextjs-store)  
-- [✍️ Personal Blog (Node.js + MongoDB)](https://github.com/USERNAME/blog-app)  
-- [📂 Portfolio Website](https://github.com/USERNAME/portfolio)  
+ 
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
-- Email: your.email@example.com  
-- Website: [your-portfolio.com](https://your-portfolio.com)  
+- LinkedIn: [linkedin.com/in/USERNAME](www.linkedin.com/in/amirhossein-fanoodi)  
+- Email: amir.hossein.fanoodi@gmail.com
+- Website: [your-portfolio.com](https://amirhosseinfanoodi.id.ir/)  
 
 ---
 
